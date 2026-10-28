@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EV24 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ev24.cloud/
+EV24 provides a comprehensive platform for electric vehicle (EV) charging management, offering solutions for charging station operators, fleet managers, and businesses. Their services include a partner portal, open API integrations, white‑label charging solutions, hardware, payment terminals, and a mobile app, enabling scalable EV charging networks and monetization opportunities.
+
+**Areas:** EV Charging · Platform · API · SaaS · Energy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ev24.cloud/)
+- [Documentation](https://docs.ev24.cloud/)
+- [Getting started](https://ev24.cloud/en/partner-api)
+- [API reference](https://api.ev24.cloud/)
+- [Pricing](https://ev24.cloud/en/pricing)
+- [Support](https://ev24.cloud/en/support-center)
+- [Blog](https://ev24.cloud/en/blog)
+- [Terms of service](https://docs.ev24.cloud/en/legal/client-terms)
+- [Privacy policy](https://docs.ev24.cloud/en/legal/privacy-policy)
+- [Status](https://status.ev24.cloud/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ev24/](https://apis.io/providers/ev24/).
